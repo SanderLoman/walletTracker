@@ -21,7 +21,7 @@ This script listens for large transfers of a specific token on the Ethereum bloc
    ```
    or
    ```bash
-   yarn add
+   yarn
    ```
    
 ## Configuration (You need to provide these if you want to listen to other contract address)
